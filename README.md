@@ -92,3 +92,5 @@ Historically, the project was at [Sourceforge](https://sourceforge.net/projects/
 * `mvn clean deploy -Doss.repo -Dgpg.passphrase=""`
 * Release project in [Nexus](https://oss.sonatype.org)
 * Website will be built and released by Travis
+
+### Added by George Udosen
